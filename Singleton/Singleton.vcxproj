@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="..\Example.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Singleton.hpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

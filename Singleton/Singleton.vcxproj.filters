@@ -3,4 +3,7 @@
   <ItemGroup>
     <ClCompile Include="..\Example.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Singleton.hpp" />
+  </ItemGroup>
 </Project>
