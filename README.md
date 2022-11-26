@@ -1,3 +1,3 @@
-# Singleton 1.0.0
+# Singleton 1.1.0
 
 Generic Singleton for C++
