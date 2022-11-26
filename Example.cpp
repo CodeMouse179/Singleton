@@ -24,6 +24,17 @@ public:
     }
 };
 
+class NormalClass2
+{
+public:
+    int value;
+
+    NormalClass2(int value)
+    {
+        this->value = value;
+    }
+};
+
 int main()
 {
     //Usage 1 (Inherit class CodeMouse::Singleton):
@@ -32,6 +43,9 @@ int main()
 
     //Usage 2 (Generic static function):
     NormalClass instance2 = CodeMouse::Singleton<NormalClass>::GetInstance();
+
+    //Usage 3 (Generic static function):
+    NormalClass2 instance3 = CodeMouse::Singleton<NormalClass2>::GetInstance(10);
 
     return 0;
 }
