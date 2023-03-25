@@ -397,13 +397,6 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-# Singleton
-/Singleton.exe
-/Singleton.pdb
-
-# s(Singleton)
-/s
-
 # CMake
 CMakeLists.txt.user
 CMakeCache.txt
@@ -416,3 +409,10 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+
+# Singleton
+/Singleton.exe
+/Singleton.pdb
+
+# s(Singleton)
+/s
