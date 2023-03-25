@@ -1,16 +1,18 @@
-﻿//     +--------------------------------------------------------------------------------+
-//     |                                 Singleton v1.1.0                               |
-//     |  Introduction : Generic Singleton for C++                                      |
-//     |  Modified Date : 2022/11/26                                                    |
-//     |  License : MIT                                                                 |
-//     |  Source Code : https://github.com/CodeMouse179/Singleton                       |
-//     |  Readme : https://github.com/CodeMouse179/Singleton/blob/main/README.md        |
-//     |                                                                                |
-//     |                             Designer : CodeMouse179                            |
-//     |  Email : codemouse179@gmail.com                                                |
-//     |  Github : https://github.com/CodeMouse179                                      |
-//     |  Bilibili : https://space.bilibili.com/3461577785215838                        |
-//     +--------------------------------------------------------------------------------+
+﻿//      +--------------------------------------------------------------------------------+
+//      |                                Singleton v1.1.0                                |
+//      |  Modified Date : 2023/3/25                                                     |
+//      |  Introduction : Generic Singleton for C++                                      |
+//      |  License : MIT                                                                 |
+//      |  Platform : Windows, Linux, macOS                                              |
+//      |  C++ Required Version : C++ 11                                                 |
+//      |  API Family : https://github.com/CodeMouse179/CodeMouse                        |
+//      |  Repository : https://github.com/CodeMouse179/Singleton                        |
+//      |                                                                                |
+//      |                             Designer : CodeMouse179                            |
+//      |  Email : codemouse179@gmail.com                                                |
+//      |  Github : https://github.com/CodeMouse179                                      |
+//      |  Bilibili : https://space.bilibili.com/3461577785215838                        |
+//      +--------------------------------------------------------------------------------+
 
 #ifndef CODEMOUSE_SINGLETON_HPP
 #define CODEMOUSE_SINGLETON_HPP
